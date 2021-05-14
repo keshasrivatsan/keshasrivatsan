@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keshasrivatsan
+- - 🌱 I’m currently a sophomore at USC studying Applied and Compuational Mathematics
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently a sophomore at USC studying Applied and Compuational Mathematics
 - 📫 How to reach me: k7.srivatsan@gmail.com
 
 <!---
